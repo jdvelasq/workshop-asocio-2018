@@ -1,0 +1,71 @@
+# ==========================================================
+# = Solver Results                                         =
+# ==========================================================
+# ----------------------------------------------------------
+#   Problem Information
+# ----------------------------------------------------------
+Problem: 
+- Name: unknown
+  Lower bound: 990.0
+  Upper bound: 990.0
+  Number of objectives: 1
+  Number of constraints: 29
+  Number of variables: 37
+  Number of nonzeros: 67
+  Sense: minimize
+# ----------------------------------------------------------
+#   Solver Information
+# ----------------------------------------------------------
+Solver: 
+- Status: ok
+  Termination condition: optimal
+  Statistics: 
+    Branch and bound: 
+      Number of bounded subproblems: 0
+      Number of created subproblems: 0
+  Error rc: 0
+  Time: 0.008777141571044922
+# ----------------------------------------------------------
+#   Solution Information
+# ----------------------------------------------------------
+Solution: 
+- number of solutions: 1
+  number of solutions displayed: 1
+- Gap: 0.0
+  Status: feasible
+  Message: None
+  Objective:
+    obj:
+      Value: 990
+  Variable:
+    G[3,2]:
+      Value: 15
+    G[4,1]:
+      Value: 45
+    G[4,2]:
+      Value: 6
+    Q[1,1]:
+      Value: 50
+    Q[1,2]:
+      Value: 30
+    Q[2,1]:
+      Value: 50
+    Q[2,2]:
+      Value: 30
+    Q[3,1]:
+      Value: 23
+    Q[3,2]:
+      Value: 42
+    Q[4,1]:
+      Value: 18
+    Q[4,2]:
+      Value: 11
+    V[1,1]:
+      Value: 46
+    V[1,2]:
+      Value: 59
+    V[2,1]:
+      Value: 11
+    V[2,2]:
+      Value: 37
+  Constraint: No values
