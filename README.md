@@ -1,7 +1,7 @@
-# Workshop Escuela Doctoral ASOCIO - Business Analytics and Operations Research Tools
-Universidad Javeriana Cali
-June 25-29, 2018
-Cali, Colombia
+# Programación en Python para Business Analytics
+Workshop Escuela Doctoral ASOCIO - Business Analytics and Operations Research Tools
+Universidad Javeriana, June 25-29, 2018. Cali, Colombia.
+
 
 **Juan David Velásquez Henao**    
 jdvelasq@unal.edu.co  
